@@ -34,4 +34,4 @@ def send_request():
 if __name__ == "__main__":
     while True:
         send_request()
-        time.sleep(60)  # Wait for 2 minutes    
+        time.sleep(60)  # Wait for 1 minutes    
