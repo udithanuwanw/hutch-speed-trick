@@ -1,4 +1,4 @@
-# Hutch Connection Speed Test Script
+# Hutch Connection Speedup Script
 
 By running this script, you can get a fast and stable connection.
 
